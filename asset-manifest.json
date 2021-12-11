@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/rarity-interface/static/js/main.e5cccf52.chunk.js",
+    "main.js.map": "/rarity-interface/static/js/main.e5cccf52.chunk.js.map",
+    "runtime-main.js": "/rarity-interface/static/js/runtime-main.fb2777a5.js",
+    "runtime-main.js.map": "/rarity-interface/static/js/runtime-main.fb2777a5.js.map",
+    "static/js/2.d2069bf2.chunk.js": "/rarity-interface/static/js/2.d2069bf2.chunk.js",
+    "static/js/2.d2069bf2.chunk.js.map": "/rarity-interface/static/js/2.d2069bf2.chunk.js.map",
+    "index.html": "/rarity-interface/index.html",
+    "static/js/2.d2069bf2.chunk.js.LICENSE.txt": "/rarity-interface/static/js/2.d2069bf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2777a5.js",
+    "static/js/2.d2069bf2.chunk.js",
+    "static/js/main.e5cccf52.chunk.js"
+  ]
+}
