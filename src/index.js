@@ -13,7 +13,8 @@ function getLibrary(provider) {
 const App = () => {
   return (
     <Web3ReactProvider getLibrary={getLibrary}>
-      <Router>
+      {/* https://stackoverflow.com/questions/54427793/getting-blank-page-after-react-app-publish-in-github  */}
+      <Router basename={process.env.PUBLIC_URL}>   
         <div>
           <Route exact component={Home} path="/" />
         </div>
